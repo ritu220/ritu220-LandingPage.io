@@ -1,0 +1,44 @@
+
+.ul{
+    list-style-type:none;
+    text-decoration:none;
+    display:none;
+    color:blue;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 50px 0;
+  }
+  
+  td {
+    padding: 10px 0;
+  }
+  table, th, td {
+   padding:80px;
+   text-align: center;
+    border-collapse: collapse;
+    font-size: 50px;
+  }
+  
+  table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  .icon{
+      background-color:#F0C929;
+      
+  }
+  .wow{
+      width:30%;
+      text-align: center;
+      height:600px;
+  }
+  .btn{
+    padding:20px;
+    margin:20px;
+  }
+  .navbar{
+    
+  }
+  @import "styles2.css";
+  
